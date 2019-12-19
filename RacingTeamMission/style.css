@@ -1,0 +1,107 @@
+.container{
+    width: 1350px;
+    height: auto; 
+}
+
+
+
+
+.title h1{
+    text-align: center;
+    font-weight: lighter;
+}
+.title h4{
+    text-align: center;
+    color: gray;
+    font-weight: lighter;
+}
+
+
+
+
+
+
+.main{
+    
+     height: auto;
+     width: 1000px;
+     margin: auto;
+     margin-top:100px;
+}
+
+
+
+
+
+
+
+
+
+.info{
+    width: 300px;
+    height: auto px;
+    float: left;
+}
+p{
+    margin: 0px;
+}
+.l1,.l2,.l3
+{
+    margin-top: 15px;
+    height: 10px;
+}
+.l1
+{
+    margin-top: 4px;
+}
+.l1 img,.l2 img,.l3 img
+{
+   float:left;
+    size: 100%;
+    padding-right: 20px;  
+}
+
+#icons
+{
+    width: 15px;
+    height:18px;
+    
+}
+
+
+
+
+
+
+
+
+.form
+{   width:auto;
+    
+    float :right;
+}
+#name ,#mail
+{
+    width: 200px;
+    height: 35px;
+    margin-bottom: 8px;
+}
+#mail
+{
+    margin-left: 10px;
+}
+#message
+{
+    width: 415px;
+    height: 35px;
+}
+#button 
+{
+    color:white;
+    background-color: black;
+    border-style:none;
+    margin-top: 10px;
+    height: 35px;
+    width: 70px;
+    float: right;  
+}
